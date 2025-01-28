@@ -4,7 +4,7 @@ layout: default
 
 # Grants and Investments for AI Security Projects
 
-- Our partners are currently looking to fund projects that could dramatically improve the security of frontier AI models. In the past our partners have made grants ranging from 10k to 100mil+.
+- Our partners are currently looking to fund projects that could dramatically improve the security of frontier AI systems. In the past our partners have made grants ranging from 10k to 100mil+.
 
 - If you are looking for funding [please fill out this form](#).
 
