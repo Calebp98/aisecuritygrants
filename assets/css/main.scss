@@ -13,7 +13,9 @@ a {
     }
 }
 
-// ... existing code ...
+h1 {
+    font-size: 1.8em;  // Adjust this value as needed - default is typically 2em
+  }
 
 .advisor-grid {
     display: grid;

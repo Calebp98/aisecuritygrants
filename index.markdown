@@ -4,7 +4,7 @@ layout: default
 
 # Grants and Investments for AI Security Projects
 
-- Our partners are currently looking to fund projects that could dramatically improve the security of frontier AI systems. In the past our partners have made grants ranging from 10k to 100mil+.
+- Our partners are actively funding projects aimed at strengthening frontier AI systems security, with previous grants ranging from $10,000 to $100M+.
 
 - If you are looking for funding [please fill out this form](#).
 
@@ -15,7 +15,7 @@ layout: default
 - We expect very powerful AI systems (e.g. AI systems that are capable of automating the majority of intellectual labour) to be built in the [next](https://milesbrundage.substack.com/p/times-up-for-ai-policy) [five](https://www.lesswrong.com/posts/K2D45BNxnZjdpSX2j/ai-timelines) years.
 - The current security posture of frontier labs, hyperscalers, and other critical parts of the AI supply chain is [insufficient for defending against sophisticated cyber attacks](https://www.rand.org/pubs/research_reports/RRA2849-1.html).
 - Defending against sophisticated cyber attacks could [significantly decrease the risk of a catastrophe](https://www.cold-takes.com/racing-through-a-minefield-the-ai-deployment-problem/) and increase the chance of humanity flourishing.
-- We suspect there are many high leverage projects that could be started by cybersecurity researchers, engineers, and policymakers; providing a path to funding could significantly increase the number of high velocity projects that start in the next year.
+- We believe cybersecurity researchers, engineers, and policymakers are ready to launch high-impact projects in this space. By providing streamlined funding, we aim to accelerate the development of dozens of critical initiatives over the next 12 months.
 
 ## Our advisors include staff from:
 
@@ -33,7 +33,6 @@ layout: default
 
   <ul>
     <li><a href="https://www.schmidtfutures.com">Schmidt Futures</a></li>
-    <li><a href="https://polaris-ventures.org/grants/">Polaris Ventures</a></li>
     <li><a href="https://cohere.ai">Cohere</a></li>
     <li><a href="https://securityandtechnology.org/">Institute for Security and Technology</a></li>
     <li><a href="https://www.rand.org">RAND Corporation</a></li>
@@ -45,10 +44,10 @@ layout: default
     <li><a href="https://progress.institute">Institute for Progress</a></li>
     <li><a href="https://www.patternlabs.co">Pattern Labs</a></li>
     <li><a href="https://risczero.com">Zero RISC</a></li>
-    <li>Dreadnode</li>
+    <li><a href="https://www.dreadnode.io/">Dreadnode</a></li>
     <li><a href="https://confidentialcomputing.io">Confidential Computing Consortium</a></li>
     <li><a href="https://halcyonfutures.org/">Halcyon Futures</a></li>
   </ul>
 </div>
 
-_If you are a funder and would like to explore partnering with us please email [caleb] [at] [airiskfund.com]. This project is supported by the [AI Security Forum](aisecurity.forum)._
+_If you're a potential funding partner interested in collaboration, please contact [caleb@airiskfund.com](mailto:caleb@airiskfund.com). This initiative is supported by the [AI Security Forum](https://aisecurity.forum)._
