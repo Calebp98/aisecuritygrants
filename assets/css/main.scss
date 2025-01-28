@@ -1,0 +1,33 @@
+---
+sitemap: false
+---
+
+@import "moving";
+@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
+
+a {
+    color: purple;
+    
+    &:hover {
+        color: darken(purple, 15%);  // Makes links slightly darker when hovered
+    }
+}
+
+// ... existing code ...
+
+.advisor-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    margin-bottom: 3rem;  // Added this line for extra space at bottom
+    
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+  
+    li {
+      margin-bottom: 0.5rem;
+    }
+  }
