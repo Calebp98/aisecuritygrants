@@ -19,10 +19,6 @@ layout: default
 
 ## Our advisors include staff from:
 
-// ... existing code ...
-
-## Our advisors include staff from:
-
 <div class="advisor-grid">
   <ul>
     <li><a href="https://www.crowdstrike.com">CrowdStrike</a></li>
@@ -37,7 +33,7 @@ layout: default
 
   <ul>
     <li><a href="https://www.schmidtfutures.com">Schmidt Futures</a></li>
-    <li><a href="https://www.polaris.com">Polaris</a></li>
+    <li><a href="https://polaris-ventures.org/grants/">Polaris Ventures</a></li>
     <li><a href="https://cohere.ai">Cohere</a></li>
     <li><a href="https://securityandtechnology.org/">Institute for Security and Technology</a></li>
     <li><a href="https://www.rand.org">RAND Corporation</a></li>
@@ -47,7 +43,7 @@ layout: default
 
   <ul>
     <li><a href="https://progress.institute">Institute for Progress</a></li>
-    <li><a href="https://www.patternlabs.ai">Pattern Labs</a></li>
+    <li><a href="https://www.patternlabs.co">Pattern Labs</a></li>
     <li><a href="https://risczero.com">Zero RISC</a></li>
     <li>Dreadnode</li>
     <li><a href="https://confidentialcomputing.io">Confidential Computing Consortium</a></li>
