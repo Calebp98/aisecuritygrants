@@ -51,4 +51,4 @@ layout: default
   </ul>
 </div>
 
-_This project is supported by the [AI Security Forum](aisecurity.forum)._
+_If you are a funder and would like to explore partnering with us please email [caleb] [at] [airiskfund.com]. This project is supported by the [AI Security Forum](aisecurity.forum)._
