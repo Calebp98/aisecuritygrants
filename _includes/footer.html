@@ -1,4 +1,4 @@
-<footer class="site-footer h-card">
+<!-- <footer class="site-footer h-card">
     <data class="u-url" href="{{ "/" | relative_url }}"></data>
     <div class="wrapper">
       <div class="footer-col-wrapper">
@@ -19,4 +19,26 @@
         </div>
       </div>
     </div>
-  </footer>
+  </footer> -->
+
+  <footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+    <div class="wrapper">
+      <div class="footer-col-wrapper">
+        <div class="footer-col">
+          <ul class="contact-list">
+            <li class="p-name">
+              {%- if site.author -%}
+                <a class="black-link" href="{{ site.url }}/about.html">
+                  {{ site.author | escape }} 
+                </a>
+              {%- endif -%}
+            </li>
+            <li>
+              Coordinated by the <a href="https://aisecurity.forum" class="black-link">AI Security Forum</a>.
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+</footer>

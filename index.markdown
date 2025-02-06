@@ -17,37 +17,6 @@ layout: default
 - Defending against sophisticated cyber attacks could [significantly decrease the risk of a catastrophe](https://www.cold-takes.com/racing-through-a-minefield-the-ai-deployment-problem/) and increase the chance of humanity flourishing.
 - We believe cybersecurity researchers, engineers, and policymakers are ready to launch high-impact projects in this space. By providing streamlined funding, we aim to accelerate the development of dozens of critical initiatives over the next 12 months.
 
-## Our advisors include staff from:
+Our advisors include senior technical staff at frontier AI labs, current and former members of the national security community, and leading security researchers.
 
-<div class="advisor-grid">
-  <ul>
-    <li><a href="https://www.crowdstrike.com">CrowdStrike</a></li>
-    <li><a href="https://www.paloaltonetworks.com">Palo Alto Networks</a></li>
-    <li><a href="https://www.anthropic.com">Anthropic</a></li>
-    <li><a href="https://deepmind.google/">Google Deepmind</a></li>
-    <li><a href="https://www.llama.com/">Meta</a></li>
-    <li><a href="https://www.2430group.org">2430 Group</a></li>
-    <li><a href="https://www.trailofbits.com">Trail of Bits</a></li>
-    <li><a href="https://www.mit.edu">MIT</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="https://www.schmidtfutures.com">Schmidt Futures</a></li>
-    <li><a href="https://cohere.ai">Cohere</a></li>
-    <li><a href="https://securityandtechnology.org/">Institute for Security and Technology</a></li>
-    <li><a href="https://www.rand.org">RAND Corporation</a></li>
-    <li><a href="https://www.aisi.gov.uk">UK AISI</a></li>
-    <li><a href="https://www.nist.gov/aisi">US AISI</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="https://progress.institute">Institute for Progress</a></li>
-    <li><a href="https://www.patternlabs.co">Pattern Labs</a></li>
-    <li><a href="https://risczero.com">Zero RISC</a></li>
-    <li><a href="https://www.dreadnode.io/">Dreadnode</a></li>
-    <li><a href="https://confidentialcomputing.io">Confidential Computing Consortium</a></li>
-    <li><a href="https://halcyonfutures.org/">Halcyon Futures</a></li>
-  </ul>
-</div>
-
-_If you're a potential funding partner interested in collaboration, please contact [caleb@airiskfund.com](mailto:caleb@airiskfund.com). This initiative is supported by the [AI Security Forum](https://aisecurity.forum)._
+_Interested in becoming a funding partner? Contact [info@secureaigrants.com](mailto:info@secureaigrants.com)._

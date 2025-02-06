@@ -33,3 +33,11 @@ h1 {
       margin-bottom: 0.5rem;
     }
   }
+
+  .black-link {
+    color: purple;
+    
+    &:hover {
+        color: darken(purple, 15%);
+    }
+}
