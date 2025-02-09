@@ -6,9 +6,9 @@ layout: default
 
 - Our partners are actively funding projects aimed at strengthening frontier AI systems security, with previous grants ranging from $10,000 to $100M+.
 
-- If you are looking for funding [please fill out this form](#).
+- If you are looking for funding [please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSeehVDxM5sNctQ33CBVuysHia7jp9H4a8TmvhsQnDGH5e5fmg/viewform).
 
-- If you're not looking for funding but are considering joining or starting a project in this space, [please fill out this form](#).
+- If you're not looking for funding but are considering joining or starting a project in this space, [please fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdmHljOxu5mrVYLPia4TNTZrGubzLhHbwbfyipDY7Bz9pRKoQ/viewform).
 
 ## Our thesis:
 
